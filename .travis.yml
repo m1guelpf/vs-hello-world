@@ -1,0 +1,3 @@
+language: csharp
+solution: C-Hello-World.sln
+solution: "Hello World!.sln"
